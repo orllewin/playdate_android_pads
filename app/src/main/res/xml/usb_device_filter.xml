@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- todo - check which of these is correct, I'm too tired to do it now -->
+    <!-- todo - values were listed as 0x so I included decimal representation too  -->
+   <usb-device vendor-id="1331" product-id="5740" />
+   <usb-device vendor-id="4913" product-id="22336" />
+</resources>
